@@ -23,7 +23,7 @@ const Hero = () => {
       <h2 className="desc">
         Unlock the Power of Efficient Reading with Summarizer: Your Go-To Tool
         for Effortlessly Condensing Long Articles into Clear and Precise
-        Summaries, Enhancing Your Comprehension and Saving You Valuable Time.
+        Summaries, Simply input any URL, and read.
       </h2>
     </header>
   );
